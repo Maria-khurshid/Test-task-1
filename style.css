@@ -1,0 +1,37 @@
+.up{
+    display: inline-flex;
+}
+
+body{
+    font-family: 'Damion', cursive;
+    font-style: bold;
+    text-size-adjust: 40px;
+}
+
+.country{
+    display: inline-flex;
+}
+
+#text-box{
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+#text-box h1{
+    font-size: 40px;
+    text-align: center;
+}
+h1{
+    background-color: whitesmoke;
+    padding: 10px;
+    text-align: center;
+    text-shadow: red 0px 0px 3px;
+    font-size: 35px;
+}
+
+#text-box :hover{
+    background-color: white;
+    cursor: pointer;
+    color: #ed5c46;
+}
+
